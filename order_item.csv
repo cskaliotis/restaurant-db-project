@@ -1,0 +1,112 @@
+order_id,item_id,qty,notes
+1,5,1,Extra butter
+1,1,1,Light sauce
+2,8,1,Gluten free
+2,2,1,Extra spicy
+3,18,1,No sauce
+3,16,2,
+3,13,1,No skin
+3,11,2,
+4,33,1,Blackened
+5,2,2,Blackened
+5,4,2,Gluten free
+5,10,2,Blackened
+6,19,2,Add avocado
+6,17,2,Medium rare
+7,15,1,No onions
+7,11,1,Medium rare
+7,12,3,
+7,17,1,
+8,9,1,
+8,2,2,Extra spicy
+9,45,3,Medium rare
+9,41,3,No sauce
+9,44,2,
+9,43,3,
+10,30,1,Extra butter
+10,24,1,No onions
+10,27,1,Add avocado
+11,23,1,Blackened
+11,22,1,Gluten free
+11,21,3,No sauce
+12,28,3,Medium rare
+12,22,3,No skin
+12,30,1,Extra butter
+13,18,3,Well done
+13,12,2,Medium rare
+13,11,1,
+13,14,1,No onions
+14,35,2,
+15,8,3,Extra spicy
+15,9,1,
+16,8,2,Well done
+16,2,1,No onions
+16,10,1,No sauce
+16,3,1,Well done
+17,18,2,
+17,15,2,
+17,17,1,Medium rare
+17,20,1,
+18,39,1,
+18,31,2,Well done
+18,38,2,Blackened
+18,34,2,No onions
+19,31,1,Add avocado
+19,34,1,Extra spicy
+19,35,3,Extra spicy
+19,38,1,
+20,3,2,
+20,5,2,No skin
+21,4,1,Extra spicy
+22,43,2,Add avocado
+23,49,2,Extra spicy
+23,45,1,Extra spicy
+23,47,2,
+24,44,1,Medium rare
+24,49,2,Well done
+24,43,2,Medium rare
+24,47,1,Medium rare
+25,20,2,Extra butter
+25,18,2,Well done
+25,13,1,Extra butter
+26,18,1,Gluten free
+26,16,2,
+26,14,2,
+26,19,1,Light sauce
+27,17,1,
+27,20,2,Gluten free
+27,13,1,No sauce
+27,14,1,No sauce
+28,42,3,
+28,49,2,No sauce
+28,48,3,
+28,41,1,Extra spicy
+29,46,1,No sauce
+29,47,3,No sauce
+29,42,2,No skin
+30,18,2,
+30,19,1,No onions
+30,11,3,Add avocado
+31,14,1,Blackened
+31,12,3,Light sauce
+31,17,1,Extra spicy
+32,25,1,Well done
+32,21,1,Medium rare
+33,16,1,Extra butter
+33,17,2,Gluten free
+33,13,3,Blackened
+34,33,1,Gluten free
+34,40,2,Gluten free
+35,48,1,Extra spicy
+35,43,3,Medium rare
+36,5,3,Extra butter
+36,1,1,
+36,8,2,Well done
+36,3,2,Medium rare
+37,25,2,No sauce
+37,28,2,
+37,30,1,No skin
+37,22,2,Well done
+38,25,1,
+38,21,2,No sauce
+38,27,3,Blackened

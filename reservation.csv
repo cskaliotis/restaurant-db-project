@@ -1,0 +1,16 @@
+reservation_id,restaurant_id,customer_id,party_size,reserved_for,special_notes
+1,1,18,3,2025-04-14 19:00:00,
+2,2,11,4,2025-04-20 19:00:00,High chair needed
+3,4,9,1,2025-04-11 20:00:00,Birthday celebration
+4,1,1,6,2025-04-22 18:00:00,Birthday celebration
+5,2,15,7,2025-04-18 17:00:00,
+6,1,5,1,2025-04-23 19:00:00,
+7,5,5,7,2025-04-12 17:00:00,Birthday celebration
+8,3,2,6,2025-04-13 18:00:00,
+9,3,18,7,2025-04-19 18:00:00,Anniversary dinner
+10,2,6,7,2025-04-10 18:00:00,Allergic to shellfish
+11,4,8,5,2025-04-12 17:00:00,Vegetarian options needed
+12,1,16,4,2025-04-13 20:00:00,Allergic to shellfish
+13,3,8,4,2025-04-10 18:00:00,Vegetarian options needed
+14,3,9,2,2025-04-22 19:00:00,Allergic to shellfish
+15,5,13,6,2025-04-10 17:00:00,Birthday celebration

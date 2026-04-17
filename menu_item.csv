@@ -1,0 +1,51 @@
+item_id,menu_id,name,course,price
+1,1,Shrimp Cocktail,appetizer,10.44
+2,1,Mozzarella Sticks,appetizer,12.8
+3,1,Pad Thai,entree,17.67
+4,1,Ribeye Steak,entree,17.84
+5,1,Cheesecake,dessert,10.58
+6,2,Stuffed Mushrooms,appetizer,11.36
+7,2,Nachos,appetizer,10.21
+8,2,Ramen Bowl,entree,34.66
+9,2,Veggie Burger,entree,14.28
+10,2,Crème Brûlée,dessert,11.09
+11,3,Mozzarella Sticks,appetizer,12.92
+12,3,Spring Rolls,appetizer,9.06
+13,3,Ramen Bowl,entree,17.8
+14,3,Chicken Parmesan,entree,14.08
+15,3,Matcha Cake,dessert,12.83
+16,4,Shrimp Cocktail,appetizer,14.21
+17,4,Mozzarella Sticks,appetizer,13.83
+18,4,Ramen Bowl,entree,29.33
+19,4,Pad Thai,entree,28.62
+20,4,Key Lime Pie,dessert,9.24
+21,5,Shrimp Cocktail,appetizer,14.58
+22,5,Mozzarella Sticks,appetizer,14.3
+23,5,Club Sandwich,entree,28.37
+24,5,Grilled Salmon,entree,25.73
+25,5,Crème Brûlée,dessert,12.57
+26,6,Spring Rolls,appetizer,6.52
+27,6,Edamame,appetizer,13.9
+28,6,Ribeye Steak,entree,31.57
+29,6,Club Sandwich,entree,33.58
+30,6,Key Lime Pie,dessert,7.77
+31,7,Crab Cakes,appetizer,7.49
+32,7,Mozzarella Sticks,appetizer,10.75
+33,7,Pasta Primavera,entree,37.14
+34,7,Chicken Parmesan,entree,36.29
+35,7,Mochi Ice Cream,dessert,11.28
+36,8,Stuffed Mushrooms,appetizer,9.94
+37,8,Soup of the Day,appetizer,10.66
+38,8,Ribeye Steak,entree,19.39
+39,8,Mahi Mahi,entree,22.11
+40,8,Mochi Ice Cream,dessert,10.53
+41,9,Bruschetta,appetizer,12.37
+42,9,Calamari,appetizer,6.53
+43,9,Ribeye Steak,entree,34.63
+44,9,Grilled Salmon,entree,15.7
+45,9,Mochi Ice Cream,dessert,8.67
+46,10,Crab Cakes,appetizer,10.85
+47,10,Edamame,appetizer,12.51
+48,10,Club Sandwich,entree,27.83
+49,10,Pasta Primavera,entree,19.83
+50,10,Churros,dessert,11.84

@@ -1,0 +1,21 @@
+customer_id,name,birthday,phone,email,kind
+1,Alice Johnson,1995-02-01,,alice.johnson@email.com,regular
+2,Bob Martinez,1998-05-08,813-555-1001,bob.martinez@email.com,regular
+3,Carol Chen,1982-03-24,813-555-1002,carol.chen@email.com,regular
+4,David Kim,1978-11-24,,david.kim@email.com,vip
+5,Eva Thompson,1992-02-19,813-555-1004,eva.thompson@email.com,regular
+6,Frank Wilson,1988-01-01,813-555-1005,frank.wilson@email.com,vip
+7,Grace Lee,1977-04-08,,grace.lee@email.com,regular
+8,Henry Davis,1991-10-01,813-555-1007,henry.davis@email.com,regular
+9,Isla Young,1992-04-23,813-555-1008,isla.young@email.com,regular
+10,Jack Adams,1995-12-18,,jack.adams@email.com,vip
+11,Karen Brown,1988-04-15,813-555-1010,karen.brown@email.com,regular
+12,Leo Clark,1993-05-26,813-555-1011,leo.clark@email.com,regular
+13,Mia Hall,2002-01-25,,mia.hall@email.com,vip
+14,Nathan King,2000-03-23,813-555-1013,nathan.king@email.com,regular
+15,Olivia Wright,1988-06-09,813-555-1014,olivia.wright@email.com,regular
+16,Paul Scott,1979-04-25,,paul.scott@email.com,regular
+17,Quinn Moore,1985-02-03,813-555-1016,quinn.moore@email.com,regular
+18,Rosa White,1987-02-12,813-555-1017,rosa.white@email.com,vip
+19,Sam Turner,2002-06-20,,sam.turner@email.com,regular
+20,Tina Garcia,1983-01-24,813-555-1019,tina.garcia@email.com,regular

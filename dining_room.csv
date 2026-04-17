@@ -1,0 +1,11 @@
+room_id,restaurant_id,name
+1,1,Main Hall
+2,1,Patio
+3,2,Private Dining
+4,2,Ocean View
+5,3,Bar Area
+6,3,Garden Room
+7,4,Loft
+8,4,Terrace
+9,5,VIP Lounge
+10,5,Smokehouse

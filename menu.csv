@@ -1,0 +1,11 @@
+menu_id,restaurant_id,service,active
+1,1,dinner,1
+2,1,lunch,0
+3,2,wine,1
+4,2,lunch,1
+5,3,wine,0
+6,3,lunch,0
+7,4,wine,1
+8,4,lunch,1
+9,5,wine,1
+10,5,lunch,1
